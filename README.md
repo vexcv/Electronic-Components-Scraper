@@ -16,7 +16,7 @@
 ## 运行
 ```bash
 python main.py
-
+```
 ### 数据存储
 ·DigiKey 产品信息存储在 digikey_products 集合
 ·ICSource 库存信息存储在 icsource_inventory 集合
